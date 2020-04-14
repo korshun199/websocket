@@ -8,7 +8,7 @@ $(document).ready(function() {
 
 
 
-    // Цикл с задержкой
+    // Цикл с задержкой b gf
 
 
     socket.onmessage = function(event) {
